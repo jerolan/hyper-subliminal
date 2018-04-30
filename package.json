@@ -1,0 +1,20 @@
+{
+  "name": "hyper-subliminal",
+  "version": "1.0.0",
+  "description": "Subliminal theme for hyperterm",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "Jerolan/hyper-subliminal",
+  "author": {
+    "name": "Jerome Olvera"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "hyperterm",
+    "hyperterm-theme"
+  ]
+}
