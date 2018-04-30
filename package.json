@@ -12,9 +12,10 @@
     "index.js"
   ],
   "keywords": [
-    "hyper",
-    "hyper-theme",
-    "hyperterm",
-    "hyperterm-theme"
+    "theme",
+    "minimal",
+    "oceanic",
+    "dark",
+    "sublime"
   ]
 }
